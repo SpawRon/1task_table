@@ -1,0 +1,6 @@
+Установка зависимостей
+pip install pyqt5 pandas openpyxl
+Запуск приложения
+python app.py --db database
+Запуск тестов
+python -m unittest -v test_app.py
